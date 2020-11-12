@@ -14,3 +14,9 @@
 - [File Contents](#File-Contents)
 
 ---
+
+## Installation Requirements
+
+This project uses the MetaMask extension and Ganache application. For installation instructions, please refer to the [Installation Guide](Installation_Guide.md). Additionally, the [Remix Platform](https://www.remix.ethereum.org) is used. 
+
+---
