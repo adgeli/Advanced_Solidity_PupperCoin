@@ -64,3 +64,13 @@ This allows users to populate the construction parameters. The prefilled attribu
 ![crowdsale_deployment](Deplyment_Images/Crowdsale_Deployment.png)
 
 ![crowdsale_deployment_success](Deplyment_Images/Crowdsale_Deployment_Success.png)
+
+### MetaMask & Ganache 
+
+Both contracts are deployed on the LocalHost 8545 network through the MetaMask extension. 
+
+The image below confrims the contract deployed successfully and the transaction has been recorded in MetaMask and Ganache. 
+
+![localhost_deployment_confrimation](Deplyment_Images/localhost_deployment_confrimation.png)
+
+![ganache_transaction](Deplyment_Images/ganache_transactions.png)
