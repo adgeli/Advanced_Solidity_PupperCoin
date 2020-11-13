@@ -1,6 +1,6 @@
 # Advanced Solidity - PupperCoin
 
-![solidity_img](Deplyment_Images/solidity_img.png)
+![solidity_img](Deployment_Images/solidity_img.png)
 
 *This repository contains the Unit 21 Advanced Solidity homework assignment; You Sure can Attract a Crowd in the FinTech bootcamp course at the University of Toronto's School of Continuing Studies.* 
 
@@ -35,7 +35,7 @@ The project inherits;
 
 To emulate a real-world pre-production test, the project will be deployed in the Kovan or Ropsten testnet. **However, due to technical issues, this project is deployed through the `local host testnet network.`** 
 
-![connecting_local_host](Deplyment_Images/connecting_local_host.png)
+![connecting_local_host](Deployment_Images/connecting_local_host.png)
 
 ---
 
@@ -47,7 +47,7 @@ To emulate a real-world pre-production test, the project will be deployed in the
 
 The ERC20 functions in the PupperCoin contract creates a deployer allowing users to select the name and symbol of a new token and set the initial supply. 
 
-![puppercoin_deployment](Deplyment_Images/Puppercoin_Deployment.png)
+![puppercoin_deployment](Deployment_Images/Puppercoin_Deployment.png)
 
 ### Deploying the CrowdSale Contract 
 
@@ -61,9 +61,9 @@ The second contract uses the following functions;
 
 This allows users to populate the construction parameters. The prefilled attributes in the contract allows the users to supply the token and sale addresses. 
 
-![crowdsale_deployment](Deplyment_Images/Crowdsale_Deployment.png)
+![crowdsale_deployment](Deployment_Images/Crowdsale_Deployment.png)
 
-![crowdsale_deployment_success](Deplyment_Images/Crowdsale_Deployment_Success.png)
+![crowdsale_deployment_success](Deployment_Images/Crowdsale_Deployment_Success.png)
 
 ### MetaMask & Ganache 
 
@@ -71,9 +71,9 @@ Both contracts are deployed on the LocalHost 8545 network through the MetaMask e
 
 The image below confrims the contract deployed successfully and the transaction has been recorded in MetaMask and Ganache. 
 
-![localhost_deployment_confrimation](Deplyment_Images/localhost_deployment_confrimation.png)
+![localhost_deployment_confrimation](Deployment_Images/localhost_deployment_confrimation.png)
 
-![ganache_transaction](Deplyment_Images/ganache_transactions.png)
+![ganache_transaction](Deployment_Images/ganache_transactions.png)
 
 ### Purchasing PupperCoin 
 
