@@ -38,3 +38,29 @@ To emulate a real-world pre-production test, the project will be deployed in the
 ![connecting_local_host](Deplyment_Images/connecting_local_host.png)
 
 ---
+
+## PupperCoin Demo 
+
+**Please Note:** The following PupperCoin demo is based in the LocalHost 8545 testnet 
+
+### Deploying ERC20 PupperCoin
+
+The ERC20 functions in the PupperCoin contract creates a deployer allowing users to select the name and symbol of a new token and set the initial supply. 
+
+![puppercoin_deployment](Deplyment_Images/Puppercoin_Deployment.png)
+
+### Deploying the CrowdSale Contract 
+
+The second contract uses the following functions; 
+
+- Crowdsale
+- MintedCrowdsale
+- CappedCrowdsale
+- TimedCrowdsale
+- RefundablePostDeliveryCrowdsale
+
+This allows users to populate the construction parameters. The prefilled attributes in the contract allows the users to supply the token and sale addresses. 
+
+![crowdsale_deployment](Deplyment_Images/Crowdsale_Deployment.png)
+
+![crowdsale_deployment_success](Deplyment_Images/Crowdsale_Deployment_Success.png)
