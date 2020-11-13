@@ -74,3 +74,9 @@ The image below confrims the contract deployed successfully and the transaction 
 ![localhost_deployment_confrimation](Deplyment_Images/localhost_deployment_confrimation.png)
 
 ![ganache_transaction](Deplyment_Images/ganache_transactions.png)
+
+### Purchasing PupperCoin 
+
+Following the above steps; creating the [PupperCoin](PupperCoin.sol) and [CrowdSale](Crowdsale.sol) contracts, input the correct constructor paramters, token and sale addresses whilst connecting the a testnet will allow users to purchase PupperCoin tokens. 
+
+---
