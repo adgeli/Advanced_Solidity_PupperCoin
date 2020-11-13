@@ -80,3 +80,11 @@ The image below confrims the contract deployed successfully and the transaction 
 Following the above steps; creating the [PupperCoin](PupperCoin.sol) and [CrowdSale](Crowdsale.sol) contracts, input the correct constructor paramters, token and sale addresses whilst connecting the a testnet will allow users to purchase PupperCoin tokens. 
 
 ---
+
+## File Contents 
+
+- [Unit 21 Instructions](Unit21_Instructions.md)
+- [PupperCoin Contract](PupperCoin.sol)
+- [CrowdSale Contract](Crowdsale.sol)
+
+---
